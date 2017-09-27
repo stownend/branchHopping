@@ -43,6 +43,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AnotherMasterFile.cs" />
+    <Compile Include="Feature3-1.cs" />
+    <Compile Include="Feature3-2.cs" />
     <Compile Include="Master3.cs" />
     <Compile Include="master4.cs" />
     <Compile Include="master5.cs" />
