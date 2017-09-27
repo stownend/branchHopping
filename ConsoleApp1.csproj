@@ -42,6 +42,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AnotherFeature2File.cs" />
+    <Compile Include="NewFeature2File.cs" />
     <Compile Include="AnotherMasterFile.cs" />
     <Compile Include="NewFile.cs" />
     <Compile Include="NewMasterFile.cs" />
