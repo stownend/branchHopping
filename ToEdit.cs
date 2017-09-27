@@ -8,5 +8,6 @@ namespace ConsoleApp1
 {
     class ToEdit
     {
+        // This has been edited
     }
 }
