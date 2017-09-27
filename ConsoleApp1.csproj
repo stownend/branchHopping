@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="AnotherMasterFile.cs" />
     <Compile Include="Master3.cs" />
+    <Compile Include="master4.cs" />
     <Compile Include="NewFile.cs" />
     <Compile Include="NewMasterFile.cs" />
     <Compile Include="Program.cs" />
