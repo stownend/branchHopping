@@ -46,6 +46,7 @@
     <Compile Include="Master3.cs" />
     <Compile Include="master4.cs" />
     <Compile Include="master5.cs" />
+    <Compile Include="master6.cs" />
     <Compile Include="NewFile.cs" />
     <Compile Include="NewMasterFile.cs" />
     <Compile Include="Program.cs" />
